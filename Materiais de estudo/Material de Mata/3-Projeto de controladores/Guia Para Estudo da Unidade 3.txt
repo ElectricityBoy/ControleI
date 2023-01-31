@@ -1,0 +1,14 @@
+-----Projeto de Controladores Usando o LR:-----
+Avanço - Engenharia de Controle Moderno, Ogata
+Atraso - Engenharia de Controle Moderno, Ogata
+Avanço/Atraso - Engenharia de Controle Moderno, Ogata
+
+
+-----Projeto de Controladores Usando a RF:-----
+Avanço - Analog and Digital Control System Design, Chen
+Atraso - Analog and Digital Control System Design, Chen
+Avanço/Atraso - Slides, Paim
+
+-----Projeto de Controladores Discretos-----
+Discrete Time Control Systems, Ogata
+Slides, Paim
